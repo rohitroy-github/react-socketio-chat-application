@@ -7,7 +7,7 @@ The <b>BackEnd</b> is hosted using <a href="https://www.heroku.com/"><b>Heroku</
 
 This Application is still under developmental phase. 
 
-<b>How to run on Localhost ?</b>
-> server >> npm start 
-> client >> npm start  
+<b>How to run on Localhost ? [Steps] >>></b><br />
+server >> npm start <br/>
+client >> npm start  
 
