@@ -1,5 +1,7 @@
 Hey Rohit, this is a React Chat Application made using NodeJS and SocketIO ! 
 
+This is the main source-code git file. This has no connection with Heroku/ Netlify App ! 
+
 Github Link > 
 
 Reference Video > 
@@ -46,6 +48,4 @@ Updates >
 >App is deployed 
 >App is hosted live 
 >Git branch is created 
->Upload files to git ? 
-
-
+>Upload files to git ? ? Yes 

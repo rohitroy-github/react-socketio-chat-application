@@ -1,7 +1,3 @@
-#myFiles 
-.readMeRohit.txt 
-readMeRohit
-
 # dependencies
 /node_modules
 /.pnp
@@ -23,3 +19,13 @@ readMeRohit
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+#myFiles 
+readMeRohit
+readMeRohit.txt
+.readMeRohit.txt
+
+
+
+
+
